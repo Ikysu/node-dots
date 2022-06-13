@@ -14,7 +14,7 @@ function dots(obj, text) {
 dots({
     name:{
         first:{
-            text:"Alex"
+            text:"Alyx"
         },
         second:{
             text:"Vance"
